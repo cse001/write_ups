@@ -1,2 +1,15 @@
 # Write Ups
-Contains write ups for all the challenges solved
+
+## Index
+
+1. Leettime
+
+```c
+#include <stdio.h>
+int main(){
+    printf ("Hello World!")
+}
+```
+
+- [x]  machine 1
+- [x] machine 2
