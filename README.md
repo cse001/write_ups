@@ -1,10 +1,10 @@
 # Write Ups
 ## Repository Structure
 
- * [WarGames](./WarGames)
-   * [Leettime](./WarGames/Leettime)
-   * [Leettime.pdf](./WarGames/Leettime/Leettime.pdf)
-   * [Leettime.md](./WarGames/Leettime/Leettime.md)
+ * [WarGame](./WarGame)
+   * [Leettime](./WarGame/Leettime)
+   * [Leettime.pdf](./WarGame/Leettime/Leettime.pdf)
+   * [Leettime.md](./WarGame/Leettime/Leettime.md)
  * [PentesterAcademy](./PentesterAcademy)
      * [Readme.md](./PentesterAcademy/Readme.md)
      * [NetworkRecon](./PentesterAcademy/NetworkRecon)
