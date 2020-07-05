@@ -162,7 +162,6 @@ URL: http://leettime.net/xsslab1
         " onmouseover="alert(document.URL);
         ```
 
-- 
 
 ## And we are done !!
 
