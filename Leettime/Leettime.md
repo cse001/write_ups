@@ -166,4 +166,4 @@ URL: http://leettime.net/xsslab1
 
 ## And we are done !!
 
-![Leettime%204bf45d35493d4f7db7f8cef6d1dd4a3e/Screenshot_from_2020-03-31_16-51-46.png](Leettime%204bf45d35493d4f7db7f8cef6d1dd4a3e/Screenshot_from_2020-03-31_16-51-46.png)
+![](Screenshot_from_2020-03-31_16-51-46.png)
