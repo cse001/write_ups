@@ -6,5 +6,7 @@
    * [Leettime.pdf](./WarGames/Leettime/Leettime.pdf)
    * [Leettime.md](./WarGames/Leettime/Leettime.md)
  * [PentesterAcademy](./PentesterAcademy)
-     * [NetworkRecon](./PentesterAcademy/NetworkRecon)
      * [Readme.md](./PentesterAcademy/Readme.md)
+     * [NetworkRecon](./PentesterAcademy/NetworkRecon)
+         * [Apache](./PentesterAcademy/NetworkRecon/Apache)
+             * [Basics.md](./PentesterAcademy/NetworkRecon/Apache/Basics.md)
