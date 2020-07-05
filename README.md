@@ -1,23 +1,23 @@
-- 📂 __write\_ups__
-   - 📂 __PentesterAcademy__
-     - 📂 __NetworkRecon__
-       - 📂 __Apache__
-         - 📄 [Basics.md](PentesterAcademy/NetworkRecon/Apache/Basics.md)
-         - 📄 [DictionaryAttack.md](PentesterAcademy/NetworkRecon/Apache/DictionaryAttack.md)
-         - 📂 __assets__
-           - 📄 [1.png](PentesterAcademy/NetworkRecon/Apache/assets/1.png)
-           - 📄 [2.png](PentesterAcademy/NetworkRecon/Apache/assets/2.png)
-           - 📄 [3.png](PentesterAcademy/NetworkRecon/Apache/assets/3.png)
-           - 📄 [4.png](PentesterAcademy/NetworkRecon/Apache/assets/4.png)
-     - 📄 [README.md](PentesterAcademy/README.md)
-   - 📄 [README.md](README.md)
-   - 📂 __WarGames__
-     - 📂 __Leettime__
-       - 📄 [Leettime.md](WarGames/Leettime/Leettime.md)
-       - 📄 [Leettime.pdf](WarGames/Leettime/Leettime.pdf)
-       - 📂 __assets__
-         - 📄 [Screenshot\_from\_2020\-03\-31\_16\-51\-46.png](WarGames/Leettime/assets/Screenshot_from_2020-03-31_16-51-46.png)
-     - 📄 [README.md](WarGames/README.md)
-   - 📄 [git\-push.sh](git-push.sh)
-   - 📄 [tree\-md.sh](tree-md.sh)
+- __write\_ups__
+   - __PentesterAcademy__
+     - __NetworkRecon__
+       - __Apache__
+         - [Basics.md](PentesterAcademy/NetworkRecon/Apache/Basics.md)
+         - [DictionaryAttack.md](PentesterAcademy/NetworkRecon/Apache/DictionaryAttack.md)
+         - __assets__
+           - [1.png](PentesterAcademy/NetworkRecon/Apache/assets/1.png)
+           - [2.png](PentesterAcademy/NetworkRecon/Apache/assets/2.png)
+           - [3.png](PentesterAcademy/NetworkRecon/Apache/assets/3.png)
+           - [4.png](PentesterAcademy/NetworkRecon/Apache/assets/4.png)
+     - [README.md](PentesterAcademy/README.md)
+   - [README.md](README.md)
+   - __WarGames__
+     - __Leettime__
+       - [Leettime.md](WarGames/Leettime/Leettime.md)
+       - [Leettime.pdf](WarGames/Leettime/Leettime.pdf)
+       - __assets__
+         - [Screenshot\_from\_2020\-03\-31\_16\-51\-46.png](WarGames/Leettime/assets/Screenshot_from_2020-03-31_16-51-46.png)
+     - [README.md](WarGames/README.md)
+   - [git\-push.sh](git-push.sh)
+   - [tree\-md.sh](tree-md.sh)
 
