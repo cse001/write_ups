@@ -10,3 +10,4 @@
      * [NetworkRecon](./PentesterAcademy/NetworkRecon)
          * [Apache](./PentesterAcademy/NetworkRecon/Apache)
              * [Basics.md](./PentesterAcademy/NetworkRecon/Apache/Basics.md)
+             * [DictionaryAttack.md](./PentesterAcademy/NetworkRecon/Apache/DictionaryAttack.md)
