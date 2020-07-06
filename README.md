@@ -11,6 +11,5 @@
        - 📄 [Leettime.md](WarGames/Leettime/Leettime.md)
        - 📄 [Leettime.pdf](WarGames/Leettime/Leettime.pdf)
      - 📄 [README.md](WarGames/README.md)
-   - 📄 [git\-push.sh](git-push.sh)
    - 📄 [tree\-md.sh](tree-md.sh)
 
