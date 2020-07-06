@@ -1,4 +1,3 @@
-- 📂 __write\_ups__
    - 📂 __PentesterAcademy__
      - 📂 __NetworkRecon__
        - 📂 __Apache__
